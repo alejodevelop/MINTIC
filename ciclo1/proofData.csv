@@ -1,0 +1,383 @@
+first_name,last_name,gender,city_name,department_name,id_branch,medicine_type,medicine_quantity,systolic_pressure,diastolic_pressure
+Meagan,Swanson,f,Puerto Carreno,Vichada,32,15,64,58,16
+Jennifer,Hancock,f,Barranquilla,Atlantico,4,16,116,133,87
+Dorothy,Brumley,f,Popayan,Cauca,10,13,195,229,127
+Stephanie,Lamb,f,Quibdo,Choco,12,9,219,203,195
+Keith,Wright,m,Valledupar,Cesar,11,5,166,111,69
+Paul,Alberts,m,Sincelejo,Sucre,28,11,141,95,77
+Timothy,Bowman,m,San Andres,San Andres y Providencia,26,3,180,128,80
+Robert,Catalan,m,Quibdo,Choco,12,3,92,13,47
+Cheryl,Mink,f,Ibague,Tolima,29,8,110,173,109
+Scott,Marshall,m,Quibdo,Choco,12,20,176,90,62
+Jeffrey,Cartwright,m,Pereira,Risaralda,25,16,145,120,84
+Lois,Huttar,f,Pereira,Risaralda,25,7,80,219,122
+Alisha,Parris,f,San Jose del Guaviare,Guaviare,16,1,185,128,83
+Ivan,Felder,m,Pasto,Narino,21,5,252,135,86
+Dominick,Ramirez,m,Quibdo,Choco,12,8,111,163,108
+Sandra,Hardin,f,Villavicencio,Meta,20,8,177,140,92
+Rodney,Jentzsch,m,Riohacha,La Guajira,18,7,15,167,107
+Kathleen,Martinez,f,Bogota,Cundinamarca,14,16,111,142,90
+Derek,Wise,m,Cucuta,Norte de Santander,22,7,181,182,179
+Rebekah,Stewart,f,Armenia,Quindio,24,3,218,263,161
+Tierra,Graham,f,Cucuta,Norte de Santander,22,19,199,210,148
+Rodney,Saenz,m,Monteria,Cordoba,13,6,30,208,197
+Travis,Moir,m,Pereira,Risaralda,25,7,159,21,40
+Bessie,Wong,f,Inirida,Guainia,15,10,236,136,89
+Clifton,Holbrook,m,Barranquilla,Atlantico,4,8,191,80,72
+Patricia,Moss,f,Quibdo,Choco,12,12,79,282,131
+James,Simpson,m,Villavicencio,Meta,20,4,300,44,22
+Helen,Bishop,f,Valledupar,Cesar,11,7,170,130,87
+Michael,Ruffo,m,Bogota,Cundinamarca,14,2,5,66,35
+Geraldine,Tanner,f,Arauca,Arauca,3,6,243,117,67
+John,Conley,m,Ibague,Tolima,29,4,105,70,51
+Thomas,Correia,m,Mitu,Vaupes,31,8,208,125,83
+Lucille,Wagner,f,Manizales,Caldas,7,4,68,114,69
+Don,Benton,m,Inirida,Guainia,15,5,191,136,88
+Guadalupe,Shuster,f,Medellin,Antioquia,2,12,137,133,89
+Thomas,Clemmons,m,Leticia,Amazonas,1,13,122,167,105
+Terrie,Wilson,f,Monteria,Cordoba,13,12,75,281,175
+Larissa,Cunningham,f,Medellin,Antioquia,2,12,258,179,100
+Claudia,Lee,f,Bucaramanga,Santander,27,17,234,100,62
+Norma,Foster,f,Bogota,Cundinamarca,14,6,113,226,164
+Shane,Davis,m,San Andres,San Andres y Providencia,26,9,72,76,53
+Jason,Carboni,m,Leticia,Amazonas,1,3,174,156,92
+Lucille,Ritchey,f,Bucaramanga,Santander,27,13,175,248,186
+Tyson,Huffman,m,Monteria,Cordoba,13,18,158,145,90
+Roosevelt,Gibson,m,Arauca,Arauca,3,20,182,34,15
+Vera,Hoffman,f,Arauca,Arauca,3,20,47,277,170
+Thomas,French,m,Riohacha,La Guajira,18,19,162,139,85
+Jennifer,Rogers,f,Monteria,Cordoba,13,3,148,129,80
+Matthew,Tucci,m,San Jose del Guaviare,Guaviare,16,9,237,172,101
+Mary,Loyd,f,Mitu,Vaupes,31,15,115,129,81
+Janice,Barrett,f,Tunja,Boyaca,6,14,170,165,102
+Cynthia,Kitchen,f,Cali,Valle del Cauca,30,15,37,44,49
+Kristina,Vogel,f,Sincelejo,Sucre,28,8,58,125,81
+Daphne,Coleman,f,Neiva,Huila,17,1,244,134,87
+Gladys,Ziemba,f,Pasto,Narino,21,2,236,138,86
+Vicky,Wisdom,f,San Andres,San Andres y Providencia,26,6,209,26,50
+Robert,Lee,m,Manizales,Caldas,7,3,8,136,85
+Jesse,Major,m,San Jose del Guaviare,Guaviare,16,15,119,214,112
+William,Kelley,m,Popayan,Cauca,10,16,224,125,83
+Roger,Maenpaa,m,Santa Marta,Magdalena,19,2,22,175,100
+Michael,Knoll,m,Mitu,Vaupes,31,6,293,84,76
+Mary,Royster,f,Pasto,Narino,21,15,153,130,89
+William,Spada,m,Riohacha,La Guajira,18,14,92,121,82
+James,Jennings,m,Valledupar,Cesar,11,14,12,63,29
+Bradley,Mayo,m,Valledupar,Cesar,11,10,29,167,105
+Travis,Shipp,m,San Andres,San Andres y Providencia,26,8,124,112,71
+Diana,Yahna,f,Inirida,Guainia,15,19,295,176,104
+Melvin,Figueroa,m,San Jose del Guaviare,Guaviare,16,20,146,116,67
+Maria,Clark,f,Yopal,Casanare,9,10,180,129,82
+Joel,Singletary,m,Villavicencio,Meta,20,13,100,113,75
+Ronald,Cummings,m,Tunja,Boyaca,6,9,14,141,96
+Anthony,Shortridge,m,Pereira,Risaralda,25,7,285,160,104
+Dawn,Vanacore,f,Bucaramanga,Santander,27,15,51,158,98
+Dorothy,Owens,f,Sincelejo,Sucre,28,9,159,63,53
+Mary,Walton,f,Valledupar,Cesar,11,11,277,295,137
+Jamie,Kim,f,Arauca,Arauca,3,8,96,164,100
+Juan,Denton,m,Neiva,Huila,17,13,39,179,107
+Brandie,Folmar,f,Manizales,Caldas,7,3,246,123,81
+Essie,Petersen,f,Yopal,Casanare,9,20,179,31,26
+Gail,Verde,f,Florencia,Caqueta,8,9,36,101,65
+Tim,Raines,m,Arauca,Arauca,3,6,145,126,80
+Olene,Hibbard,f,Cucuta,Norte de Santander,22,18,163,126,83
+Lisa,Ellis,f,Florencia,Caqueta,8,19,147,141,91
+Elizabeth,Isom,f,Armenia,Quindio,24,4,151,179,107
+Angelo,Brooks,m,Tunja,Boyaca,6,15,286,141,94
+Ernest,Purinton,m,Barranquilla,Atlantico,4,5,222,84,79
+Lynn,Mcarthur,f,Arauca,Arauca,3,11,248,91,69
+Milton,Fields,m,Villavicencio,Meta,20,4,139,132,88
+Mable,Gunter,f,Arauca,Arauca,3,8,170,174,101
+Deanne,Flores,f,Ibague,Tolima,29,17,130,297,181
+Marilyn,Mcgowan,f,Yopal,Casanare,9,9,148,16,48
+Francis,Jenkins,f,San Andres,San Andres y Providencia,26,4,142,120,82
+Christopher,Lindsey,m,Popayan,Cauca,10,17,109,41,30
+Kathy,Joseph,f,Quibdo,Choco,12,3,176,130,87
+Dorothy,Wright,f,San Andres,San Andres y Providencia,26,9,269,172,109
+Lorena,Whetstine,f,Tunja,Boyaca,6,2,210,26,55
+Karl,Chandler,m,Armenia,Quindio,24,2,64,142,99
+Katherine,Tompson,f,San Jose del Guaviare,Guaviare,16,11,168,185,112
+Martha,Curtis,f,Yopal,Casanare,9,16,282,170,102
+Kirk,Reagan,m,Valledupar,Cesar,11,9,60,135,88
+Rocco,Tompkins,m,Quibdo,Choco,12,12,240,120,81
+Tracey,Benton,f,Bucaramanga,Santander,27,1,87,116,73
+Andrew,Stafford,m,Ibague,Tolima,29,10,52,114,72
+Arlene,Ott,f,Pereira,Risaralda,25,12,238,217,193
+Gary,Palmer,m,Riohacha,La Guajira,18,17,20,156,93
+Annabelle,Sutton,f,Cucuta,Norte de Santander,22,15,128,110,71
+Todd,Angelocci,m,Barranquilla,Atlantico,4,15,46,24,20
+Paula,Gillins,f,Riohacha,La Guajira,18,6,72,226,144
+Robert,Cail,m,San Jose del Guaviare,Guaviare,16,4,96,131,89
+Madeline,Ulrich,f,Medellin,Antioquia,2,18,197,124,81
+Vicky,Moore,f,Armenia,Quindio,24,18,149,67,59
+Paul,Ward,m,Bucaramanga,Santander,27,18,53,137,86
+Cindy,Saenz,f,Villavicencio,Meta,20,16,151,57,48
+Ivy,Baron,f,San Jose del Guaviare,Guaviare,16,5,35,14,39
+Rhea,Green,f,Cali,Valle del Cauca,30,17,300,140,90
+Anna,Anderson,f,San Jose del Guaviare,Guaviare,16,4,89,143,90
+Shawnda,Ellis,f,Puerto Carreno,Vichada,32,19,176,141,91
+Michael,Johnson,m,Bogota,Cundinamarca,14,15,233,129,81
+Minnie,Haug,f,Mitu,Vaupes,31,15,35,137,85
+Malcolm,Stovall,m,Ibague,Tolima,29,18,241,252,124
+Peggy,Podesta,f,Medellin,Antioquia,2,17,40,58,50
+Rachel,Condrey,f,Quibdo,Choco,12,2,126,207,188
+Patricia,Johnson,f,Ibague,Tolima,29,4,272,140,92
+Ofelia,Powell,f,Yopal,Casanare,9,15,148,122,84
+Cheryl,Hernandez,f,Leticia,Amazonas,1,13,70,236,118
+Levi,Planas,m,Ibague,Tolima,29,13,133,164,105
+Evelyn,Cunningham,f,Quibdo,Choco,12,7,170,151,91
+Susan,Wheeler,f,Puerto Carreno,Vichada,32,3,220,132,87
+Barbara,Mcpherson,f,Bucaramanga,Santander,27,16,190,264,169
+Danielle,Webb,f,San Jose del Guaviare,Guaviare,16,15,98,245,192
+Kenneth,Moore,m,San Andres,San Andres y Providencia,26,2,217,157,90
+Jacob,Dennis,m,Ibague,Tolima,29,12,2,270,146
+Willard,Sticker,m,Mitu,Vaupes,31,6,193,294,116
+Sam,Smith,m,Monteria,Cordoba,13,10,62,102,67
+Priscilla,Fletcher,f,Neiva,Huila,17,20,12,152,90
+Eric,Stein,m,Villavicencio,Meta,20,3,38,147,91
+Eric,Williams,m,San Jose del Guaviare,Guaviare,16,19,254,298,163
+Tamesha,Massey,f,Monteria,Cordoba,13,4,13,95,60
+Helen,Adams,f,Tunja,Boyaca,6,15,145,158,95
+Reyna,Ricci,f,Valledupar,Cesar,11,9,24,136,87
+Alma,Jarrette,f,Cucuta,Norte de Santander,22,9,126,135,85
+Candice,Baridon,f,Arauca,Arauca,3,18,176,169,100
+Scott,Abel,m,Leticia,Amazonas,1,17,130,124,81
+Zella,Johnson,f,Inirida,Guainia,15,19,142,137,89
+Ernest,Letko,m,Mocoa,Putumayo,23,9,191,159,97
+Patricia,Jacobs,f,Neiva,Huila,17,1,84,156,91
+Audrey,Davis,f,San Jose del Guaviare,Guaviare,16,11,172,83,72
+Whitney,Goldie,f,Villavicencio,Meta,20,15,115,25,9
+Dante,Grimes,m,Medellin,Antioquia,2,5,256,154,98
+Bruce,Fenstermaker,m,Cartagena,Bolivar,5,13,33,128,83
+Paul,Leuthauser,m,Arauca,Arauca,3,8,255,68,47
+Candace,Pinard,f,Ibague,Tolima,29,1,184,177,106
+Joshua,Doherty,m,Villavicencio,Meta,20,5,186,131,85
+George,Prisco,m,Villavicencio,Meta,20,14,272,146,97
+Robert,Moore,m,Monteria,Cordoba,13,19,245,168,107
+Valerie,Tate,f,Mocoa,Putumayo,23,5,5,136,89
+Donald,Vanauker,m,Ibague,Tolima,29,3,87,160,101
+Jason,Graham,m,Riohacha,La Guajira,18,7,106,144,92
+Ronald,Garcia,m,Mitu,Vaupes,31,16,238,103,78
+Jon,Graham,m,Villavicencio,Meta,20,1,174,54,29
+Ann,Adams,f,Cucuta,Norte de Santander,22,11,185,249,152
+Tony,Guevara,m,Mocoa,Putumayo,23,3,52,5,12
+Gerald,Sommerfeld,m,Barranquilla,Atlantico,4,9,164,142,96
+Jose,Barber,m,Neiva,Huila,17,19,74,128,81
+Ron,Noland,m,Bucaramanga,Santander,27,8,238,5,18
+Charles,Foster,m,Valledupar,Cesar,11,1,96,120,80
+Joyce,Blackmon,f,Valledupar,Cesar,11,14,212,286,179
+Jeff,Siddique,m,Barranquilla,Atlantico,4,5,13,21,29
+Richard,Skill,m,Arauca,Arauca,3,3,88,173,103
+Ryan,Kendall,m,Mocoa,Putumayo,23,11,167,102,67
+Dayna,House,f,Inirida,Guainia,15,18,103,83,62
+Teresa,Carr,f,Bucaramanga,Santander,27,9,38,16,59
+David,Brantley,m,Tunja,Boyaca,6,14,121,36,45
+Roberta,Perez,f,Pasto,Narino,21,14,271,126,83
+Katherine,Bryan,f,Medellin,Antioquia,2,6,123,148,95
+Rickie,Price,m,Santa Marta,Magdalena,19,15,88,136,87
+Lawrence,Fullilove,m,Pereira,Risaralda,25,20,76,168,100
+Stacey,Turnmire,f,Neiva,Huila,17,13,15,42,54
+Gary,Baumann,m,Arauca,Arauca,3,7,260,121,83
+James,Estrada,m,Armenia,Quindio,24,18,205,148,98
+Angela,Betance,f,Riohacha,La Guajira,18,8,72,285,179
+Terry,Cain,f,Ibague,Tolima,29,7,109,94,66
+Kathleen,Johnson,f,Bucaramanga,Santander,27,20,102,106,68
+Diana,Haynes,f,Bucaramanga,Santander,27,3,142,139,87
+Santa,Conrad,f,Cali,Valle del Cauca,30,7,170,129,80
+Bessie,Medrano,f,Arauca,Arauca,3,2,16,157,97
+Wilbert,Wilson,m,Tunja,Boyaca,6,7,59,133,85
+Ramon,Murphy,m,Tunja,Boyaca,6,5,89,127,82
+Jerome,Barber,m,Riohacha,La Guajira,18,12,133,226,200
+Charles,Sullivan,m,Bucaramanga,Santander,27,18,269,135,86
+Myron,Carhart,m,Armenia,Quindio,24,19,292,286,129
+Melissa,Banks,f,San Jose del Guaviare,Guaviare,16,20,161,276,113
+Clarice,Firestone,f,Sincelejo,Sucre,28,11,22,10,29
+Robert,Guerra,m,Barranquilla,Atlantico,4,6,123,59,53
+Mary,Allen,f,Valledupar,Cesar,11,2,215,133,87
+Bryan,Skaggs,m,Mocoa,Putumayo,23,2,213,175,103
+Kara,Jetton,f,Bogota,Cundinamarca,14,16,13,233,128
+Jake,Clark,m,Santa Marta,Magdalena,19,17,275,172,109
+Madeline,Medina,f,Pasto,Narino,21,20,123,133,89
+Cordell,Cantor,m,Riohacha,La Guajira,18,19,208,138,86
+Martha,Johnson,f,Medellin,Antioquia,2,11,120,128,84
+Chris,Connelly,m,Mocoa,Putumayo,23,20,177,178,103
+George,Hornbeck,m,Bogota,Cundinamarca,14,12,84,131,88
+Sheldon,Reid,m,Sincelejo,Sucre,28,20,47,231,149
+John,Werkhoven,m,Manizales,Caldas,7,5,19,163,108
+Cheryl,Graves,f,Popayan,Cauca,10,19,53,162,108
+Edward,Tanner,m,Tunja,Boyaca,6,17,147,152,94
+Margot,Fernandez,f,Villavicencio,Meta,20,8,163,198,186
+Greg,Jackson,m,Arauca,Arauca,3,16,294,40,59
+Daniel,Glover,m,Puerto Carreno,Vichada,32,19,292,181,169
+Dana,Wooten,f,San Andres,San Andres y Providencia,26,11,296,147,93
+Rochelle,Pavia,f,Cartagena,Bolivar,5,16,130,91,78
+Shannon,Fitzgerald,m,Inirida,Guainia,15,4,273,172,105
+Karen,Stewart,f,Santa Marta,Magdalena,19,13,158,128,80
+Christa,Wright,f,Riohacha,La Guajira,18,17,176,178,102
+Martha,Brougham,f,Mitu,Vaupes,31,5,289,139,86
+Evelyn,Burris,f,Puerto Carreno,Vichada,32,18,200,127,84
+James,Hoganson,m,Mocoa,Putumayo,23,11,292,108,78
+Philip,Martin,m,Popayan,Cauca,10,19,63,150,91
+Michelle,Nelson,f,Riohacha,La Guajira,18,15,272,167,108
+Janice,Simple,f,Riohacha,La Guajira,18,16,291,181,136
+Jennie,Hammond,f,Mocoa,Putumayo,23,14,46,158,93
+James,Patel,m,Mocoa,Putumayo,23,15,246,150,98
+Charles,Spasiano,m,Santa Marta,Magdalena,19,10,157,122,82
+Stephen,Brown,m,Neiva,Huila,17,3,10,126,80
+Margarita,Ulloa,f,Villavicencio,Meta,20,11,1,144,92
+Genevieve,Juarez,f,San Andres,San Andres y Providencia,26,15,234,127,82
+James,Sanders,m,Santa Marta,Magdalena,19,1,245,105,79
+Sandra,Fernando,f,Leticia,Amazonas,1,4,277,245,122
+Angie,Mueller,f,Leticia,Amazonas,1,7,216,164,109
+Lynn,Leavens,f,Puerto Carreno,Vichada,32,9,245,94,67
+Erika,Fowler,f,Monteria,Cordoba,13,6,17,137,87
+Randy,Dedmon,m,Florencia,Caqueta,8,4,113,25,35
+Scottie,Kelly,m,Florencia,Caqueta,8,17,76,225,163
+Shelby,Wong,m,Ibague,Tolima,29,12,276,133,87
+Jay,Adkins,m,Bogota,Cundinamarca,14,5,201,245,182
+Lloyd,Matthews,m,Medellin,Antioquia,2,3,271,132,89
+Myrtle,Bullock,f,Valledupar,Cesar,11,20,189,157,95
+Veronica,Barton,f,Cali,Valle del Cauca,30,14,227,36,6
+Cheryl,Rodriguez,f,Ibague,Tolima,29,4,186,134,87
+Ernest,Wadsworth,m,Santa Marta,Magdalena,19,8,111,234,180
+Micheal,Denning,m,Yopal,Casanare,9,14,243,145,92
+Esther,Trundle,f,Monteria,Cordoba,13,15,2,245,185
+Kelly,Horton,m,Ibague,Tolima,29,2,244,158,92
+Louis,Phelps,m,Armenia,Quindio,24,12,135,134,87
+Cody,Godfrey,m,Pereira,Risaralda,25,6,23,170,109
+Sherill,Harris,f,Cucuta,Norte de Santander,22,16,157,13,55
+Mary,Ackley,f,Medellin,Antioquia,2,10,202,164,108
+Paula,Bland,f,Bucaramanga,Santander,27,15,137,84,63
+Andrew,Mcdowell,m,Medellin,Antioquia,2,17,97,193,187
+Robert,Magnuson,m,Arauca,Arauca,3,18,63,88,60
+Eric,Hanway,m,Mocoa,Putumayo,23,5,16,16,48
+Clarence,Strange,m,Tunja,Boyaca,6,20,43,264,157
+Robyn,Patillo,f,Tunja,Boyaca,6,4,269,50,37
+Mike,Smith,m,Bucaramanga,Santander,27,13,147,138,86
+Elaine,Roberts,f,Armenia,Quindio,24,10,102,68,10
+Brandon,Douglas,m,San Jose del Guaviare,Guaviare,16,2,273,69,22
+Octavio,Bowling,m,Cali,Valle del Cauca,30,13,24,126,84
+Marcus,Harrington,m,Armenia,Quindio,24,13,185,281,164
+Claudia,Mccartney,f,Mitu,Vaupes,31,4,30,54,32
+Odessa,Vasques,f,Popayan,Cauca,10,11,200,162,105
+Ron,Reinhardt,m,Cartagena,Bolivar,5,10,228,152,97
+Patricia,Bohman,f,Riohacha,La Guajira,18,1,148,178,106
+Mary,Anderson,f,Quibdo,Choco,12,14,100,32,47
+Ellen,Laird,f,Neiva,Huila,17,10,225,249,147
+Carl,Mccarville,m,Cartagena,Bolivar,5,17,189,287,176
+Richard,Pokorny,m,San Jose del Guaviare,Guaviare,16,9,2,128,84
+Mario,Argo,m,Popayan,Cauca,10,5,174,286,173
+Darren,Pangburn,m,Riohacha,La Guajira,18,11,38,119,73
+Tracy,Blevins,m,Monteria,Cordoba,13,4,81,33,14
+Robert,Malone,m,Mocoa,Putumayo,23,7,121,55,56
+Clarence,Buenrostro,m,Medellin,Antioquia,2,1,261,138,88
+Aaron,Harris,m,Sincelejo,Sucre,28,12,290,166,108
+Gerald,Friday,m,Barranquilla,Atlantico,4,4,79,151,96
+Wayne,Bearden,m,Barranquilla,Atlantico,4,19,199,136,86
+Carla,Reed,f,San Andres,San Andres y Providencia,26,9,206,122,82
+George,Walls,m,Ibague,Tolima,29,8,299,133,88
+Melvin,Neill,m,Barranquilla,Atlantico,4,6,51,150,99
+James,Harvey,m,Manizales,Caldas,7,3,54,132,85
+Lawrence,Shiver,m,Monteria,Cordoba,13,17,144,123,84
+Jessica,Mock,f,Barranquilla,Atlantico,4,19,123,137,85
+John,Lachley,m,San Jose del Guaviare,Guaviare,16,14,5,108,77
+Eric,Carmona,m,Cali,Valle del Cauca,30,12,173,151,93
+Kristine,Thorne,f,Pereira,Risaralda,25,15,263,236,162
+Edward,Linder,m,Sincelejo,Sucre,28,4,105,148,93
+Minnie,Ramirez,f,Mitu,Vaupes,31,18,71,110,70
+Linda,Marsh,f,Barranquilla,Atlantico,4,11,52,116,79
+Alexander,Wilhite,m,Inirida,Guainia,15,8,223,146,90
+Leticia,Lavertue,f,Tunja,Boyaca,6,6,118,111,70
+Gus,Fisher,m,Yopal,Casanare,9,8,284,144,95
+Roxana,Pena,f,Bucaramanga,Santander,27,6,20,168,106
+Tammy,Gutierrez,f,Ibague,Tolima,29,17,184,9,46
+Craig,Rich,m,Tunja,Boyaca,6,11,123,174,104
+Charles,Roy,m,Tunja,Boyaca,6,18,66,131,85
+Evan,Oneill,m,Tunja,Boyaca,6,3,104,120,84
+Shelly,Shilling,f,Villavicencio,Meta,20,1,261,124,84
+James,Martin,m,Ibague,Tolima,29,16,75,125,84
+Irene,Catrone,f,Bogota,Cundinamarca,14,11,193,129,80
+Robert,Barker,m,Inirida,Guainia,15,16,7,139,87
+Kristin,Pearce,f,Bucaramanga,Santander,27,13,4,171,107
+Thomas,Sturgeon,m,Ibague,Tolima,29,16,4,239,169
+Sara,Snyder,f,Sincelejo,Sucre,28,17,175,108,68
+Shirley,Wright,f,Arauca,Arauca,3,19,157,192,133
+Scottie,Logiudice,m,Mitu,Vaupes,31,19,13,114,75
+Irma,Pena,f,Barranquilla,Atlantico,4,18,14,40,57
+Connie,Edes,f,Leticia,Amazonas,1,2,195,137,85
+Richard,Dibello,m,Santa Marta,Magdalena,19,15,106,139,89
+Edith,Garvey,f,Armenia,Quindio,24,12,76,73,42
+Evangelina,Moran,f,Armenia,Quindio,24,10,290,104,67
+Martha,Anderson,f,Pasto,Narino,21,10,28,225,134
+Anna,Fox,f,Cali,Valle del Cauca,30,14,280,94,77
+Carmen,Hand,f,Quibdo,Choco,12,17,70,178,107
+Angela,Rhodes,f,Puerto Carreno,Vichada,32,15,100,272,182
+George,Michaels,m,Neiva,Huila,17,13,271,175,100
+Sharonda,Lopez,f,Arauca,Arauca,3,8,59,120,81
+Nathan,Dobbins,m,Bogota,Cundinamarca,14,17,149,133,89
+David,Mclennan,m,Mocoa,Putumayo,23,17,291,150,95
+Calvin,Summers,m,Cucuta,Norte de Santander,22,16,132,179,105
+Debora,Rowe,f,Valledupar,Cesar,11,6,138,139,86
+Hilda,Greene,f,Cali,Valle del Cauca,30,5,52,51,21
+Thomas,Knickrehm,m,Quibdo,Choco,12,8,47,141,93
+Stephanie,Randall,f,Cucuta,Norte de Santander,22,15,125,176,102
+Raul,Walter,m,Villavicencio,Meta,20,14,143,218,194
+Peter,Henderson,m,Puerto Carreno,Vichada,32,12,85,107,66
+Jenny,Martinez,f,Mocoa,Putumayo,23,18,43,122,81
+Jonathan,Harriott,m,Manizales,Caldas,7,17,169,123,84
+Quentin,Harpin,m,Puerto Carreno,Vichada,32,9,108,137,86
+Anita,Bales,f,Arauca,Arauca,3,4,201,138,85
+Julie,Calbert,f,Mitu,Vaupes,31,19,56,131,85
+Christine,Lorenz,f,Villavicencio,Meta,20,14,100,159,92
+Robert,Darnell,m,Yopal,Casanare,9,1,108,129,83
+Robert,Abplanalp,m,Cucuta,Norte de Santander,22,11,60,87,64
+Kristine,Solarz,f,Puerto Carreno,Vichada,32,15,163,173,104
+Crystal,Wallace,f,Armenia,Quindio,24,7,51,159,90
+Lillian,Bingham,f,Arauca,Arauca,3,11,11,135,89
+Joel,Duncan,m,Barranquilla,Atlantico,4,13,102,165,101
+Mary,Ashley,f,Cali,Valle del Cauca,30,16,117,21,44
+Jeffrey,Shaw,m,Riohacha,La Guajira,18,9,168,135,85
+Joel,Custer,m,Neiva,Huila,17,4,190,131,88
+Roy,Hutchison,m,Villavicencio,Meta,20,8,43,82,68
+Steven,Mccarthy,m,Neiva,Huila,17,1,247,126,81
+Jeffrey,Mackie,m,Arauca,Arauca,3,18,258,136,88
+William,Quayle,m,Florencia,Caqueta,8,9,178,94,64
+Tina,Haynes,f,Armenia,Quindio,24,12,10,8,55
+Douglas,Crowell,m,Armenia,Quindio,24,20,107,30,34
+Sharon,Sawer,f,Riohacha,La Guajira,18,7,214,230,188
+Lorenzo,Diaz,m,Monteria,Cordoba,13,19,231,122,81
+Vaughn,Mcelvaine,m,Riohacha,La Guajira,18,5,115,80,63
+Bessie,Vincent,f,Valledupar,Cesar,11,18,132,96,79
+Sandra,Hughes,f,Cartagena,Bolivar,5,19,197,111,63
+Monica,Culverhouse,f,Sincelejo,Sucre,28,3,62,172,100
+Thomas,Bennett,m,Cucuta,Norte de Santander,22,15,21,135,89
+Joann,Young,f,Florencia,Caqueta,8,10,195,167,102
+Juanita,Kay,f,Pasto,Narino,21,7,185,280,113
+Jason,Riggio,m,Inirida,Guainia,15,9,135,145,94
+William,Neagle,m,Mocoa,Putumayo,23,2,226,157,93
+Lynn,Edwards,f,Ibague,Tolima,29,15,138,126,81
+Michael,Calhoun,m,Neiva,Huila,17,5,162,131,86
+Stephen,Kane,m,Bucaramanga,Santander,27,13,54,77,47
+Hugh,Torres,m,Yopal,Casanare,9,2,213,168,104
+Michael,Wilson,m,Pereira,Risaralda,25,2,80,41,45
+Felicia,Moore,f,Riohacha,La Guajira,18,14,42,229,175
+Lorraine,Collins,f,San Andres,San Andres y Providencia,26,15,145,135,85
+Yolanda,Thurman,f,Puerto Carreno,Vichada,32,3,125,158,91
+Oscar,Cruz,m,Medellin,Antioquia,2,8,170,158,93
+Kevin,Smith,m,Santa Marta,Magdalena,19,8,165,132,89
+Quentin,Michels,m,Valledupar,Cesar,11,1,251,120,82
+Rhonda,Kirtley,f,Arauca,Arauca,3,12,245,160,103
+Ronald,Bennett,m,Cucuta,Norte de Santander,22,11,163,91,62
+Joseph,Jennings,m,San Jose del Guaviare,Guaviare,16,20,186,161,107
+James,Hindman,m,Cartagena,Bolivar,5,10,272,142,95
+Diana,Haist,f,Armenia,Quindio,24,13,135,144,94
+Herbert,Mason,m,Valledupar,Cesar,11,17,56,143,97
+Helene,Wallace,f,Cartagena,Bolivar,5,12,94,185,115
+Judy,Adams,f,Arauca,Arauca,3,20,113,155,92
+James,Linn,m,Quibdo,Choco,12,5,248,121,83
+Arthur,Switzer,m,Leticia,Amazonas,1,11,169,84,69
+Brandi,Ward,f,Pasto,Narino,21,2,256,133,85
+Tim,Washington,m,Cartagena,Bolivar,5,16,152,130,87
+Eric,Malone,m,Arauca,Arauca,3,6,61,216,161
+Lou,Oszust,f,Yopal,Casanare,9,10,156,264,170
+Richard,Yost,m,Medellin,Antioquia,2,13,253,133,86
